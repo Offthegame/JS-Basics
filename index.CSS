@@ -57,3 +57,7 @@ h1 {
 ul {
   list-style: none;
 }
+span {
+  font-family: null;
+  font-size: 14px;
+}
