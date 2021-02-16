@@ -9,7 +9,7 @@ function paintImage(imgNumber) {
     image.classList.add("bgImage");
     body.appendChild(image);
 }
-
+    
 
 function genRandom() {
     const number = Math.floor(Math.random()*IMG_NUMBER);
