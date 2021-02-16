@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Itim&display=swap");
 
 body {
   /* display: flex; */
@@ -7,7 +7,7 @@ body {
   background-color: #fff;
   color: #111;
   text-align: center;
-  font-family: "Patrick Hand", cursive;
+  font-family: "Itim", cursive;
   font-size: 16px;
 }
 
@@ -63,13 +63,14 @@ h1 {
 ul {
   list-style: none;
 }
-span {
-  font-family: null;
+div {
   font-size: 14px;
+  margin: 24px auto 12px;
 }
 
 h4 {
   font-size: 2em;
+  margin: 12px auto 32px;
 }
 
 input {
