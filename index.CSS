@@ -1,7 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap");
+
 body {
   background-color: #ecf0f1;
   color: #f4f6f6;
   text-align: center;
+  font-family: "Nanum Pen Script", cursive;
+  font-size: 2em;
 }
 
 .btn {
@@ -43,4 +47,6 @@ body {
 h1 {
   text-align: center;
   color: #f4f6f6;
+  font-size: 4em;
+  font-family: null;
 }
