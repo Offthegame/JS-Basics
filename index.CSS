@@ -56,10 +56,4 @@ h1 {
 
 ul {
   list-style: none;
-  position: relative;
-  background: #fff;
-  padding: 10px;
-  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
-  transition: trasform 0.5s;
-  width: 300px;
 }
