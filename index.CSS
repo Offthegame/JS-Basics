@@ -1,6 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap");
 
 body {
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
   background-color: #ecf0f1;
   color: #f4f6f6;
   text-align: center;
@@ -49,4 +52,14 @@ h1 {
   color: #f4f6f6;
   font-size: 4em;
   font-family: null;
+}
+
+ul {
+  list-style: none;
+  position: relative;
+  background: #fff;
+  padding: 10px;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+  transition: trasform 0.5s;
+  width: 300px;
 }
